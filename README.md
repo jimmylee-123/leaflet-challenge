@@ -30,7 +30,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
  
 ## Source Code Location
 
-* The source code files Are located in the root directory.
+* The source code files are located in the root directory.
 
 ## Acknowledgments
 
