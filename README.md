@@ -34,4 +34,4 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 ## Acknowledgments
 
-* For this challenge module, I reviewed the Module 15 class activities extensively and also had guidance from ChatGPT.
+* For this challenge module, I reviewed the Module 15 class activities extensively and also used code generated from ChatGPT.
